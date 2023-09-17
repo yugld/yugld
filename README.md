@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./img/helga.gif" width="100"/>
-</p>
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </div>
