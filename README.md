@@ -1,12 +1,16 @@
-## Hi! I'm a novice frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+### Hi! I'm a novice frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 ---
 ### Contact Me :
-  [Telegram](https://t.me/yugld) 
+  [![Telegram](https://img.shields.io/badge/-Telegram-141130?style=for-the-badge&logo=Telegram)](https://t.me/yugld)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yulliagladysheva@gmail.com)
 
 ---
+### My Projects :
+[![Game](https://img.shields.io/badge/Game-D14836?style=for-the-badge&logo=game&logoColor=white)]([mailto:yulliagladysheva@gmail.com](https://github.com/MariaShamonova/practicum-game))
+[![Messenger](https://img.shields.io/badge/Messenger-141130?style=for-the-badge&logo=messenger)]([https://github.com/yugld/russian-travel](https://github.com/yugld/middle.messenger.praktikum.yandex))
 
+---
 ### Languages and Tools :
-
 #### frontend
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
