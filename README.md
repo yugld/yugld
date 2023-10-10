@@ -1,10 +1,7 @@
-# Hi, my name is Yulya
-
+## Hi! I'm a novice frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 ---
-
-### About Me :
-I'm a novice frontend developer 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
+### Contact Me :
+  [Telegram](https://t.me/yugld) 
 
 ---
 
