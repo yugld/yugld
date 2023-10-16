@@ -45,6 +45,6 @@
 
 ### My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yugld&theme=dark))](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yugld&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yugld&layout=compact&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yugld&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
