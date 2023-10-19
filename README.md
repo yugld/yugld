@@ -7,7 +7,7 @@
 ---
 ### My Projects :
 [![Messenger](https://img.shields.io/badge/Messenger-141130?style=for-the-badge&logo=messenger)](https://github.com/yugld/middle.messenger.praktikum.yandex)
-[![Game](https://img.shields.io/badge/Game-D14836?style=for-the-badge&logo=game&logoColor=white)](https://github.com/MariaShamonova/practicum-game)
+[![Game](https://img.shields.io/badge/Game-D14836?style=for-the-badge&logo=game&logoColor=white)](https://github.com/yugld/practicum-game)
 [![Portfolio](https://img.shields.io/badge/Portfolio-141130?style=for-the-badge&logo=game&logoColor=white)](https://github.com/yugld/portfolio)
 
 ---
