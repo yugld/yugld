@@ -1,10 +1,5 @@
 ### Hi! I'm a frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 ---
-### Contact Me :
-  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yugld)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yulliagladysheva@gmail.com)
-
----
 ### My Projects :
 [![Marketplace](https://img.shields.io/badge/Marketplace-141130?style=for-the-badge&logoColor=white)](https://github.com/yugld/bytebay)
 [![Messenger](https://img.shields.io/badge/Messenger-141130?style=for-the-badge&logo=messenger&color=blue&logoColor=white)](https://github.com/yugld/middle.messenger.praktikum.yandex)
