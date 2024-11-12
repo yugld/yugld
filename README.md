@@ -38,10 +38,3 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="nginx" alt="nginx" width="40" height="40"/>&nbsp;
 </div>
 
----
-
-### My Stats :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yugld&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=yugld&theme=transparent)](https://git.io/streak-stats)
